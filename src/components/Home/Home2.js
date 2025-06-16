@@ -16,7 +16,7 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              Bienvenido a mi <span className="purple"> portafolio </span> portafolio
+              Bienvenido a mi <span className="purple"> portafolio </span> 
             </h1>
             <p className="home-about-body">
               Soy Derek Lima, desarrollador junior y fundador de Lumenex Pro Solutions, donde ofrezco soluciones digitales enfocadas en resultados reales.
